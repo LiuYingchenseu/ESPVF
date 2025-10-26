@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="216pt"
+   height="216pt"
+   viewBox="0 0 216 216"
+   version="1.1"
+   id="svg79"
+   sodipodi:docname="confusion_matix_percent_svg.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview79"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="2.0555556"
+     inkscape:cx="144.24324"
+     inkscape:cy="144"
+     inkscape:window-width="1440"
+     inkscape:window-height="830"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="figure_1" />
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>2025-01-26T15:32:46.231615</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Matplotlib v3.8.4, https://matplotlib.org/</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1">
+    <rect
+       x="110.43243"
+       y="256.86486"
+       width="94.864865"
+       height="20.432432"
+       id="rect89" />
+    <rect
+       x="32.108108"
+       y="159.56757"
+       width="43.297297"
+       height="20.432431"
+       id="rect88" />
+    <rect
+       x="8.7567568"
+       y="92.918919"
+       width="22.378378"
+       height="80.27027"
+       id="rect86" />
+    <rect
+       x="108"
+       y="254.43243"
+       width="110.91892"
+       height="19.459459"
+       id="rect85" />
+    <rect
+       x="61.297297"
+       y="236.43243"
+       width="97.783784"
+       height="21.891892"
+       id="rect84" />
+    <rect
+       x="73.945946"
+       y="237.40541"
+       width="76.378378"
+       height="17.513514"
+       id="rect83" />
+    <rect
+       x="11.675676"
+       y="87.567568"
+       width="13.135135"
+       height="72.486486"
+       id="rect80" />
+    <style
+       type="text/css"
+       id="style1">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <rect
+       x="61.297298"
+       y="236.43243"
+       width="97.783783"
+       height="21.891891"
+       id="rect84-3" />
+    <rect
+       x="61.297298"
+       y="236.43243"
+       width="97.783783"
+       height="21.891891"
+       id="rect84-4" />
+    <rect
+       x="32.108109"
+       y="159.56757"
+       width="41.351351"
+       height="21.89189"
+       id="rect88-4" />
+  </defs>
+  <g
+     id="figure_1">
+    <g
+       id="patch_1">
+      <path
+         id="path1"
+         style="fill: #ffffff"
+         d="M 0,0 V 216 H 216 V 0 Z m 15.433594,63.105469 c 0.389208,0.06688 0.789768,0.08541 1.16748,0.200683 0.249165,0.07604 0.470899,0.225191 0.689942,0.366211 1.285922,0.827878 2.037106,2.063419 2.160644,3.591797 0.08478,2.92007 -0.221283,5.833789 -0.427734,8.743653 -0.237093,2.567913 -0.515696,5.131831 -0.84961,7.688964 0.06227,1.958753 0.0077,3.92359 -0.03369,5.881348 -0.06901,3.235458 -0.16677,6.471051 0.02197,9.70459 0.12527,2.146115 0.286737,3.547305 0.499511,5.687985 0.362603,3.31864 0.841872,6.6235 1.297852,9.93018 0.49341,3.57812 -3.120359,4.07615 -3.61377,0.49805 -0.462313,-3.35262 -0.949209,-6.70296 -1.315429,-10.06788 -0.09185,-0.92727 -0.168086,-1.68096 -0.241699,-2.44482 -0.03333,0.16856 -0.06034,0.33829 -0.09375,0.50684 -0.677484,3.41522 -1.417593,6.81482 -2.270508,10.19091 -0.753257,2.98163 -3.4369434,2.84338 -3.6752933,0.57715 -1.1392816,0.82956 -2.7847523,-0.0653 -2.6132812,-2.52832 0.057115,-0.8204 0.031858,-0.42966 0.076172,-1.16748 0.00885,-1.48317 0.023498,-2.96721 0.049805,-4.45019 0.049758,-2.64517 0.1110075,-5.291 0.272461,-7.932132 C 6.7216165,95.553789 7.0409139,93.045337 7.5541992,90.55957 8.09458,87.284774 8.6541672,84.014554 9.2827148,80.755371 9.8801412,77.656323 10.490013,74.559188 11.128418,71.468262 10.161644,69.85733 9.1410521,68.278009 8.269043,66.615234 7.2205824,64.615996 8.1025331,63.324649 9.3427734,63.405762 c 0.7441436,0.04867 1.6180196,0.591185 2.2807616,1.772461 0.231731,0.413038 0.4716,0.821673 0.713379,1.229004 0.41973,-1.226102 0.992298,-2.359154 1.854492,-2.928223 0.360535,-0.237962 0.828551,-0.248973 1.242188,-0.373535 z m -0.47168,3.446777 c 3.06e-4,0.0041 0.0078,0.0134 0.0249,0.02637 0.09906,0.07512 0.21961,0.114892 0.32959,0.172852 -0.01309,0.220392 0.11952,0.195404 0.279785,0.115723 -0.30034,-0.181711 -0.636291,-0.34221 -0.634277,-0.314942 z m 1.004883,0.590332 c -0.0082,0.01715 -0.02192,0.03395 -0.02783,0.05127 -0.0202,0.05922 -0.03725,0.119374 -0.05713,0.178711 0.210291,-0.02236 0.195475,-0.115175 0.08496,-0.229981 z m -0.158203,0.457031 c -0.05804,0.178541 -0.118638,0.355986 -0.171387,0.536133 -0.364451,1.244629 -0.384477,1.438241 -0.657715,2.685059 0.243962,0.441782 0.463522,0.89184 0.672363,1.346191 0.111582,-1.521068 0.1973,-3.043489 0.156739,-4.567383 z m -2.15625,9.877442 c -0.258516,1.323648 -0.532824,2.644125 -0.788086,3.968262 -0.622547,3.22699 -1.174597,6.466466 -1.709473,9.708984 -0.492217,2.378385 -0.804479,4.776489 -0.981445,7.196777 -0.155575,2.574946 -0.2152203,5.154156 -0.263672,7.732906 -0.014285,0.80621 -0.017977,1.61219 -0.026367,2.41846 0.4367462,-1.93367 0.8477362,-3.87264 1.2333982,-5.81836 1.041225,-5.254533 2.04244,-10.518592 2.922364,-15.802732 0.197867,-1.124432 0.328045,-2.257549 0.479003,-3.388184 -0.04593,-1.130418 -0.136615,-2.258814 -0.307617,-3.380859 -0.154145,-0.887384 -0.337873,-1.767045 -0.558105,-2.635254 z" />
+    </g>
+    <g
+       id="axes_1"
+       transform="translate(-2.9189189,-1.8243243)"
+       inkscape:label="axes_1">
+      <g
+         id="patch_2">
+        <path
+           d="M 41.6,174.4 H 204.12 V 11.88 H 41.6 Z"
+           style="fill:#ffffff"
+           id="path2" />
+      </g>
+      <g
+         id="QuadMesh_1">
+        <path
+           d="m 41.6,11.88 h 81.26 V 93.14 H 41.6 V 11.88"
+           clip-path="url(#pe178999e85)"
+           style="fill:#084e98;stroke-width:1.00063;stroke-dasharray:none"
+           id="path3" />
+        <path
+           d="m 122.86,11.88 h 81.26 V 93.14 H 122.86 V 11.88"
+           clip-path="url(#pe178999e85)"
+           style="fill:#e0ecf8"
+           id="path4" />
+        <path
+           d="m 41.6,93.14 h 81.26 V 174.4 H 41.6 V 93.14"
+           clip-path="url(#pe178999e85)"
+           style="fill:#f7fbff"
+           id="path5" />
+        <path
+           d="m 122.86,93.14 h 81.26 V 174.4 H 122.86 V 93.14"
+           clip-path="url(#pe178999e85)"
+           style="fill:#08306b"
+           id="path6" />
+      </g>
+      <g
+         id="matplotlib.axis_1">
+        <g
+           id="xtick_1">
+          <g
+             id="line2d_1">
+            <defs
+               id="defs6">
+              <path
+                 id="m6ec6e0f812"
+                 d="M 0,0 V 3.5"
+                 style="stroke:#000000;stroke-width:0.8" />
+            </defs>
+            <g
+               id="g6">
+              <use
+                 xlink:href="#m6ec6e0f812"
+                 x="82.230003"
+                 y="174.39999"
+                 style="stroke:#000000;stroke-width:0.8"
+                 id="use6" />
+            </g>
+          </g>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.75,0,0,0.75,25.175675,-0.36486486)"
+             id="text84"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.2;font-family:SimSun;-inkscape-font-specification:SimSun;white-space:pre;shape-inside:url(#rect84);display:inline;fill:#000000;stroke-width:1.33417;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none"><tspan
+               x="61.296875"
+               y="250.50251"
+               id="tspan1">正常</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.75,0,0,0.75,106.96052,0.20024084)"
+             id="text84-3"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.2;font-family:SimSun;-inkscape-font-specification:SimSun;white-space:pre;shape-inside:url(#rect84-4);display:inline;fill:#000000;stroke-width:1.33417;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none"><tspan
+               x="61.296875"
+               y="251.78164"
+               id="tspan2">面瘫</tspan></text>
+        </g>
+        <g
+           id="xtick_2">
+          <g
+             id="line2d_2">
+            <g
+               id="g13">
+              <use
+                 xlink:href="#m6ec6e0f812"
+                 x="163.49001"
+                 y="174.39999"
+                 style="stroke:#000000;stroke-width:0.8"
+                 id="use13" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="text_3">
+          <!-- Predicted Label -->
+        </g>
+      </g>
+      <g
+         id="matplotlib.axis_2">
+        <g
+           id="ytick_1">
+          <g
+             id="line2d_3">
+            <defs
+               id="defs33">
+              <path
+                 id="m8a64eb2d69"
+                 d="M 0,0 H -3.5"
+                 style="stroke:#000000;stroke-width:0.8" />
+            </defs>
+            <g
+               id="g34">
+              <use
+                 xlink:href="#m8a64eb2d69"
+                 x="41.599998"
+                 y="52.509998"
+                 style="stroke:#000000;stroke-width:0.8"
+                 id="use34" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="ytick_2">
+          <g
+             id="line2d_4">
+            <g
+               id="g41">
+              <use
+                 xlink:href="#m8a64eb2d69"
+                 x="41.599998"
+                 y="133.77"
+                 style="stroke:#000000;stroke-width:0.8"
+                 id="use41" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="text_6">
+          <!-- True Label -->
+        </g>
+        <text
+           xml:space="preserve"
+           transform="matrix(0,-0.75,0.75,0,-94.058827,168.82322)"
+           id="text88"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0.8;font-family:SimSun;-inkscape-font-specification:SimSun;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect88);display:inline;fill:#000000;stroke-width:1.33417;stroke-dasharray:none"><tspan
+             x="32.107422"
+             y="171.71836"
+             id="tspan3">面瘫</tspan></text>
+      </g>
+      <g
+         id="text_7">
+        <!-- 88.17% -->
+        <g
+           style="fill:#ffffff"
+           transform="matrix(0.12,0,0,-0.12,62.73,55.199687)"
+           id="g62">
+          <defs
+             id="defs56">
+            <path
+               id="TimesNewRomanPS-BoldMT-38"
+               d="m 2181,2394 q 447,-328 620,-611 174,-283 174,-649 0,-512 -386,-867 Q 2203,-88 1541,-88 913,-88 569,221 225,531 225,978 q 0,341 198,597 199,256 661,469 -503,384 -645,628 -142,244 -142,566 0,425 361,748 361,323 989,323 606,0 932,-286 327,-285 327,-685 0,-300 -177,-530 -176,-230 -548,-414 z m -237,159 q 115,156 171,350 57,194 57,425 0,406 -175,622 -131,166 -363,166 -209,0 -356,-152 -147,-151 -147,-376 0,-229 164,-474 164,-245 649,-561 z m -625,-659 q -97,-88 -138,-160 -62,-109 -112,-319 -50,-209 -50,-437 0,-294 75,-492 75,-198 214,-286 139,-87 286,-87 228,0 384,167 156,167 156,458 0,606 -815,1156 z"
+               transform="scale(0.015625)" />
+            <path
+               id="TimesNewRomanPS-BoldMT-2e"
+               d="m 800,963 q 219,0 370,-154 Q 1322,656 1322,441 1322,225 1169,73 1016,-78 800,-78 584,-78 432,73 281,225 281,441 q 0,215 151,368 152,154 368,154 z"
+               transform="scale(0.015625)" />
+            <path
+               id="TimesNewRomanPS-BoldMT-31"
+               d="M 2084,4325 V 859 q 0,-390 34,-498 35,-108 144,-177 110,-68 351,-68 h 96 V 0 H 478 v 116 h 113 q 272,0 387,62 116,63 156,172 41,109 41,509 v 2197 q 0,294 -28,367 -28,74 -105,125 -76,52 -176,52 -160,0 -388,-100 l -56,113 1559,712 z"
+               transform="scale(0.015625)" />
+            <path
+               id="TimesNewRomanPS-BoldMT-37"
+               d="M 1134,-88 2288,3409 H 1409 Q 894,3409 634,3275 453,3181 334,2922 H 216 L 522,4238 H 3047 L 1625,-88 Z"
+               transform="scale(0.015625)" />
+            <path
+               id="TimesNewRomanPS-BoldMT-25"
+               d="M 4916,4334 1906,-178 h -418 l 3006,4512 z m -3422,0 q 444,0 748,-314 305,-314 305,-811 0,-509 -307,-826 -306,-317 -759,-317 -447,0 -742,306 -295,306 -295,806 0,516 303,836 303,320 747,320 z m 0,-165 q -69,0 -113,-41 -78,-72 -117,-249 -39,-176 -39,-729 0,-441 53,-681 31,-138 106,-206 47,-41 110,-41 69,0 109,37 72,66 106,213 54,237 54,666 0,525 -50,759 -35,162 -113,237 -37,35 -106,35 z M 4894,2097 q 453,0 757,-311 305,-311 305,-814 0,-509 -309,-828 -309,-319 -747,-319 -434,0 -739,319 -305,319 -305,819 0,503 297,818 297,316 741,316 z m 9,-163 q -62,0 -106,-37 -75,-69 -116,-239 -40,-170 -40,-652 0,-512 47,-737 34,-160 115,-231 41,-38 106,-38 60,0 97,34 78,72 116,235 53,228 53,690 0,488 -50,713 -37,162 -112,228 -38,34 -110,34 z"
+               transform="scale(0.015625)" />
+          </defs>
+          <use
+             xlink:href="#TimesNewRomanPS-BoldMT-38"
+             id="use57" />
+          <use
+             xlink:href="#TimesNewRomanPS-BoldMT-38"
+             x="50"
+             id="use58" />
+          <use
+             xlink:href="#TimesNewRomanPS-BoldMT-2e"
+             x="100"
+             id="use59" />
+          <use
+             xlink:href="#TimesNewRomanPS-BoldMT-31"
+             x="125"
+             id="use60" />
+          <use
+             xlink:href="#TimesNewRomanPS-BoldMT-37"
+             x="175"
+             id="use61" />
+          <use
+             xlink:href="#TimesNewRomanPS-BoldMT-25"
+             x="225"
+             id="use62" />
+        </g>
+      </g>
+      <g
+         id="text_8">
+        <!-- 11.83% -->
+        <g
+           style="fill:#262626"
+           transform="matrix(0.12,0,0,-0.12,144.32,55.199687)"
+           id="g68">
+          <defs
+             id="defs62">
+            <path
+               id="TimesNewRomanPS-BoldMT-33"
+               d="m 947,2125 v 109 q 356,104 493,193 138,89 238,271 100,183 100,371 0,259 -189,445 -189,186 -470,186 -438,0 -744,-462 l -116,40 q 225,522 577,784 352,263 783,263 440,0 726,-269 286,-268 286,-628 0,-234 -133,-452 -132,-217 -417,-382 366,-178 558,-439 192,-261 192,-655 Q 2831,838 2351,373 1872,-91 1066,-91 528,-91 281,88 103,213 103,409 q 0,144 103,245 103,102 238,102 103,0 194,-43 50,-25 354,-274 305,-248 571,-248 231,0 396,182 166,183 166,465 0,428 -300,789 -300,361 -878,498 z"
+               transform="scale(0.015625)" />
+          </defs>
+          <use
+             xlink:href="#TimesNewRomanPS-BoldMT-31"
+             id="use63" />
+          <use
+             xlink:href="#TimesNewRomanPS-BoldMT-31"
+             x="44.5"
+             id="use64" />
+          <use
+             xlink:href="#TimesNewRomanPS-BoldMT-2e"
+             x="94.5"
+             id="use65" />
+          <use
+             xlink:href="#TimesNewRomanPS-BoldMT-38"
+             x="119.5"
+             id="use66" />
+          <use
+             xlink:href="#TimesNewRomanPS-BoldMT-33"
+             x="169.5"
+             id="use67" />
+          <use
+             xlink:href="#TimesNewRomanPS-BoldMT-25"
+             x="219.5"
+             id="use68" />
+        </g>
+      </g>
+      <g
+         id="text_9">
+        <!-- 0.53% -->
+        <g
+           style="fill:#262626"
+           transform="matrix(0.12,0,0,-0.12,65.73,136.45969)"
+           id="g73">
+          <defs
+             id="defs68">
+            <path
+               id="TimesNewRomanPS-BoldMT-30"
+               d="M 2966,2119 Q 2966,1484 2788,934 2681,597 2501,381 2322,166 2094,39 1866,-88 1597,-88 1291,-88 1044,68 797,225 606,516 469,728 366,1081 q -135,478 -135,988 0,690 194,1269 159,478 484,732 325,255 688,255 369,0 689,-252 320,-251 470,-676 210,-584 210,-1278 z m -963,6 q 0,1113 -12,1297 -32,434 -150,587 -78,100 -253,100 -135,0 -213,-75 -116,-109 -157,-386 -40,-276 -40,-1929 0,-900 63,-1206 47,-222 134,-297 88,-75 231,-75 157,0 235,100 131,175 150,540 z"
+               transform="scale(0.015625)" />
+            <path
+               id="TimesNewRomanPS-BoldMT-35"
+               d="M 975,4238 H 2959 L 2644,3431 H 975 L 816,3009 q 1078,-40 1659,-537 478,-409 478,-1019 0,-390 -222,-764 Q 2509,316 2106,114 1703,-88 1222,-88 703,-88 425,106 231,244 231,419 q 0,134 101,237 102,103 237,103 122,0 247,-50 125,-50 428,-262 190,-131 328,-181 97,-38 219,-38 256,0 435,187 180,188 180,451 0,550 -550,893 -550,344 -1387,344 -85,0 -253,-3 z"
+               transform="scale(0.015625)" />
+          </defs>
+          <use
+             xlink:href="#TimesNewRomanPS-BoldMT-30"
+             id="use69" />
+          <use
+             xlink:href="#TimesNewRomanPS-BoldMT-2e"
+             x="50"
+             id="use70" />
+          <use
+             xlink:href="#TimesNewRomanPS-BoldMT-35"
+             x="75"
+             id="use71" />
+          <use
+             xlink:href="#TimesNewRomanPS-BoldMT-33"
+             x="125"
+             id="use72" />
+          <use
+             xlink:href="#TimesNewRomanPS-BoldMT-25"
+             x="175"
+             id="use73" />
+        </g>
+      </g>
+      <g
+         id="text_10">
+        <!-- 99.47% -->
+        <g
+           style="fill:#ffffff"
+           transform="matrix(0.12,0,0,-0.12,143.99,136.45969)"
+           id="g79">
+          <defs
+             id="defs73">
+            <path
+               id="TimesNewRomanPS-BoldMT-39"
+               d="M 197,-88 V 0 q 519,119 880,350 361,231 571,572 211,341 296,784 -194,-100 -330,-139 -136,-39 -286,-39 -481,0 -802,347 -320,347 -320,950 0,419 173,767 174,349 496,541 322,192 669,192 372,0 703,-213 331,-212 528,-615 197,-403 197,-919 0,-669 -321,-1282 Q 2331,684 1697,314 1063,-56 197,-88 Z m 1794,2057 q 31,350 31,615 0,569 -131,1060 -75,272 -222,400 -78,69 -203,69 -157,0 -244,-135 -122,-184 -122,-703 0,-866 206,-1194 135,-212 363,-212 122,0 322,100 z"
+               transform="scale(0.015625)" />
+            <path
+               id="TimesNewRomanPS-BoldMT-34"
+               d="m 159,1597 2013,2728 h 381 V 1597 h 388 V 950 H 2553 V 0 H 1694 V 950 H 159 Z m 304,0 h 1231 v 1672 z"
+               transform="scale(0.015625)" />
+          </defs>
+          <use
+             xlink:href="#TimesNewRomanPS-BoldMT-39"
+             id="use74" />
+          <use
+             xlink:href="#TimesNewRomanPS-BoldMT-39"
+             x="50"
+             id="use75" />
+          <use
+             xlink:href="#TimesNewRomanPS-BoldMT-2e"
+             x="100"
+             id="use76" />
+          <use
+             xlink:href="#TimesNewRomanPS-BoldMT-34"
+             x="125"
+             id="use77" />
+          <use
+             xlink:href="#TimesNewRomanPS-BoldMT-37"
+             x="175"
+             id="use78" />
+          <use
+             xlink:href="#TimesNewRomanPS-BoldMT-25"
+             x="225"
+             id="use79" />
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.75,0,0,0.75,-0.36486486,1.4594595)"
+         id="text85"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:SimSun;-inkscape-font-specification:SimSun;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect85);display:inline;fill:#000000;stroke-width:1.33417;stroke-dasharray:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       transform="scale(0.75)"
+       id="text86"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:SimSun;-inkscape-font-specification:SimSun;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect86);display:inline;fill:#000000;stroke-width:1.33417;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:SimSun;-inkscape-font-specification:SimSun;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.00063;stroke-dasharray:none"
+       x="-112.50236"
+       y="17.491409"
+       id="text87"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan87"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:SimSun;-inkscape-font-specification:SimSun;stroke-width:1.00063;font-size:12px"
+         x="-112.50236"
+         y="17.491409">真实标签</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0,-0.75,0.75,0,-96.953933,85.497422)"
+       id="text88-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0.8;font-family:SimSun;-inkscape-font-specification:SimSun;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect88-4);display:inline;fill:#000000;stroke-width:1.33417;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none"><tspan
+         x="32.107422"
+         y="171.71836"
+         id="tspan4">正常</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.75,0,0,0.75,14.918919,-2.5540541)"
+       id="text89"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:SimSun;-inkscape-font-specification:SimSun;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect89);display:inline;fill:#000000;stroke-width:1.33417;stroke-dasharray:none"><tspan
+         x="110.43164"
+         y="272.61523"
+         id="tspan5">预测标签</tspan></text>
+  </g>
+  <defs
+     id="defs79">
+    <clipPath
+       id="pe178999e85">
+      <rect
+         x="41.6"
+         y="11.88"
+         width="162.52"
+         height="162.52"
+         id="rect79" />
+    </clipPath>
+  </defs>
+</svg>

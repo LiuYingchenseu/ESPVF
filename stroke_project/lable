@@ -1,0 +1,12 @@
+hypertension	yes	有高血压
+	no	无高血压
+face	yes	无面瘫
+	no	有面瘫
+directivity	yes	准确
+		不准确
+trajectory	yes	平滑
+		不平滑
+left_leg	yes	正常
+	no	异常
+right	yes	正常
+	no 	异常
